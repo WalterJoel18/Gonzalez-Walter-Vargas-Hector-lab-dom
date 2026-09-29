@@ -5,4 +5,4 @@ Integrantes:
   Hector Vargas        8-
 Links:
   Github Pages: https://walterjoel18.github.io/Gonzalez-Walter-Vargas-Hector-lab-dom/
-  Repo:   
+  Repo:         https://github.com/WalterJoel18/Gonzalez-Walter-Vargas-Hector-lab-dom
