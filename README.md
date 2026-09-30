@@ -15,7 +15,7 @@
 * **Repositorio de GitHub:**  
   `https://github.com/WalterJoel18/Gonzalez-Walter-Vargas-Hector-lab-dom`
 * **Despliegue GitHub Pages:**  
-  ` https://walterjoel18.github.io/Gonzalez-Walter-Vargas-Hector-lab-dom/`
+  `https://walterjoel18.github.io/Gonzalez-Walter-Vargas-Hector-lab-dom/Inscripcion/`
 
 ---
 
